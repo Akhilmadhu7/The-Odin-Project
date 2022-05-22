@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.text-1 h1{
+    color: rgb(202, 127, 29);
+}
+
+.text-1 a{
+    font-size: large;
+}
+
+.card-bg{
+    background-color: rgb(237 237 237);
+}
+
+.cards:hover{
+    cursor: pointer;
+    box-shadow: 10px olive;
+   
+
+}
+
+
+
+.btn-2{
+    background-color: rgb(184, 123, 10);
+
+}
+
+.btn-2:hover{
+    background-color: rgb(112, 74, 4);
+}
+
+.review-section{
+    background-color: rgb(245, 245, 245) ;
+}
+
+.btn-3{
+    color: white;
+    background-color: rgb(31, 149, 165);
+}
+
+.text-names{
+    color: rgb(219, 144, 3);
+}
+
+.a{
+    width: 120px;
+}
+
+.button-4{
+    background-color: rgb(245, 245, 245) ;
+}
+
+.mail{
+    height: 50px;
+     padding: 0 120px 0 10px;
+}
+
+.btn-5{
+    top: 5px;
+    right: 5px;
+}
+
+.credit-name{
+    color: rgb(122, 81, 6);
+
+}
+
+
+@media screen and (max-width: 600px) {
+    .a {
+      width: 180px;
+    }
+  }
